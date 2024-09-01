@@ -1,0 +1,7 @@
+target
+checkpoint
+warehouse
+spark-warehouse
+confluent-libs
+.idea
+.bsp
